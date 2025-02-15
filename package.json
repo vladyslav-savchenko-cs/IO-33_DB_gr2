@@ -4,14 +4,17 @@
   "description": "",
   "license": "ECL 2.0",
   "type": "module",
+  "homepage": "https://vladyslav-savchenko-cs.github.io/db/",
   "scripts": {
     "docs:build": "vuepress-vite build docs",
     "docs:clean-dev": "vuepress-vite dev docs --clean-cache",
     "docs:dev": "vuepress-vite dev docs",
-    "docs:update-package": "npx vp-update"
+    "docs:update-package": "npx vp-update",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.7",
+    "gh-pages": "^6.3.0",
     "vue": "^3.4.15",
     "vuepress": "2.0.0-rc.7",
     "vuepress-theme-hope": "2.0.0-rc.23"
