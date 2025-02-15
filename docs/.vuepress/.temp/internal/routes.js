@@ -8,8 +8,8 @@ export const routes = Object.fromEntries([
   ["/requirements/", { loader: () => import(/* webpackChunkName: "v-5fd0d570" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/requirements/index.html.js"), meta: {"y":"a","t":"Розроблення загальних вимог до системи"} }],
   ["/requirements/stakeholders-needs.html", { loader: () => import(/* webpackChunkName: "v-53674b13" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/requirements/stakeholders-needs.html.js"), meta: {"y":"a","t":"Запити зацікавлених осіб"} }],
   ["/requirements/state-of-the-art.html", { loader: () => import(/* webpackChunkName: "v-4cbcbf63" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/requirements/state-of-the-art.html.js"), meta: {"y":"a","t":"Аналіз предметної області"} }],
-  ["/software/", { loader: () => import(/* webpackChunkName: "v-254bde0e" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/software/index.html.js"), meta: {"y":"a","t":"Реалізація інформаційного та програмного забезпечення"} }],
   ["/test/", { loader: () => import(/* webpackChunkName: "v-a35b1ba4" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/test/index.html.js"), meta: {"y":"a","t":"Тестування працездатності системи"} }],
+  ["/software/", { loader: () => import(/* webpackChunkName: "v-254bde0e" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/software/index.html.js"), meta: {"y":"a","t":"Реалізація інформаційного та програмного забезпечення"} }],
   ["/use%20cases/", { loader: () => import(/* webpackChunkName: "v-44b3e802" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/use cases/index.html.js"), meta: {"y":"a","t":"Модель прецедентів"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "v-8fe89ed2" */"C:/Users/chmo123/Documents/unik/db/docs/.vuepress/.temp/pages/404.html.js"), meta: {"y":"p","t":""} }],
 ]);
