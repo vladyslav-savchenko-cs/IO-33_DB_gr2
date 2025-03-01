@@ -4,7 +4,7 @@ import MarkdownItPlantuml from 'markdown-it-plantuml';
 
 export default defineUserConfig({
   // Замінити на назву свого репозиторія
-  base: "/db/",
+  base: "/IO-33_DB_gr2/",
 
   lang: "en-US",
   // Замінити на назву свого проєкту
