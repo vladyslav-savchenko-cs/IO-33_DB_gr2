@@ -12,7 +12,7 @@
 
 студент 2-го курсу, групи ІО-33 Замковий Віталій [Telegram](https://web.telegram.org/k/#@neeuuta)
 
-студент 2-го курсу, групи ІО-33 Мороз Олександра [Telegram](https://web.telegram.org/k/#@envymw)
+студентка 2-го курсу, групи ІО-33 Мороз Олександра [Telegram](https://web.telegram.org/k/#@envymw)
 
 студент 2-го курсу, групи ІО-33 Пакуляк Олександр [Telegram](https://web.telegram.org/k/#@ChoopaMP5)
 
