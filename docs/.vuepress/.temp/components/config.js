@@ -1,11 +1,11 @@
 import { defineClientConfig } from "vuepress/client";
-import { hasGlobalComponent } from "C:/IO-33_DB_gr2/node_modules/vuepress-shared/lib/client/index.js";
+import { hasGlobalComponent } from "C:/Users/Admin/OneDrive/Документи/GitHub/IO-33_DB_gr2/node_modules/vuepress-shared/lib/client/index.js";
 
-import { useScriptTag } from "C:/IO-33_DB_gr2/node_modules/@vueuse/core/index.mjs";
-import Badge from "C:/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "C:/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import { useScriptTag } from "C:/Users/Admin/OneDrive/Документи/GitHub/IO-33_DB_gr2/node_modules/@vueuse/core/index.mjs";
+import Badge from "C:/Users/Admin/OneDrive/Документи/GitHub/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "C:/Users/Admin/OneDrive/Документи/GitHub/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
 
-import "C:/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "C:/Users/Admin/OneDrive/Документи/GitHub/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
