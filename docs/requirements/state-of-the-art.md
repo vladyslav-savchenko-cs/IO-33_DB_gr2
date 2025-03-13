@@ -10,7 +10,21 @@
 
 ## Основні визначення
 
-*[Розділ містить визначення термінів та скорочень, які використовуються при аналізі предметної області.]*
+**Зацікавлені особи (сторони)** — фізичні або юридичні особи, які мають законний інтерес у діяльності організації, тобто певною мірою залежать від неї або можуть впливати на її функціонування.
+
+**База даних** — організована сукупність даних, що підтримує мінімум одну область застосування. Вона містить схеми, таблиці, подання, збережені процедури та інші об'єкти, а також їхній опис і засоби для обробки.
+
+**Object-Relational Mapping (ORM)** — технологія програмування, яка поєднує бази даних з об'єктно-орієнтованими мовами програмування, створюючи «віртуальну об'єктну базу даних».
+
+**SQL (Structured Query Language)** — декларативна мова програмування для роботи з реляційними базами даних. Використовується для створення запитів, оновлення та керування даними, а також для модифікації схеми бази та контролю доступу. SQL не є окремою СУБД або програмним продуктом, але може бути інтегрована в прикладні програми для керування даними.
+
+**SQL-ін'єкція** — метод атаки на веб-додатки, що працюють із базами даних. Полягає у впровадженні довільного SQL-коду в запит, що може призвести до зчитування, зміни чи видалення даних, отримання доступу до файлів або виконання команд на сервері.
+
+**API (Application Programming Interface)** — набір визначених підпрограм, протоколів взаємодії та інструментів для розробки програмного забезпечення.
+
+**XML** — стандарт розмітки ієрархічно структурованих даних, розроблений консорціумом W3C для обміну інформацією між застосунками, зокрема через Інтернет. XML є спрощеною підмножиною мови SGML і складається з текстових знаків, що робить його придатним для читання людиною.
+
+**JSON** — текстовий формат обміну даними між комп'ютерами, що дозволяє описувати об'єкти та структури даних у зручному для читання вигляді. Використовується переважно для передачі структурованої інформації через мережу (завдяки серіалізації).
 
 ## Підходи та способи вирішення завдання
 
@@ -98,4 +112,27 @@
 
 ## Посилання
 
-*[Розділ містить повний список всіх документів, про які згадується.]*
+- [wikipedia.org¹](https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D1%86%D1%96%D0%BA%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B8)
+- [wikipedia.org²](https://uk.wikipedia.org/wiki/%D0%91%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)
+- [wikipedia.org³](https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%27%D1%94%D0%BA%D1%82%D0%BD%D0%BE-%D1%80%D0%B5%D0%BB%D1%8F%D1%86%D1%96%D0%B9%D0%BD%D0%B5_%D0%B2%D1%96%D0%B4%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F)
+- [wikipedia.org⁴](https://uk.wikipedia.org/wiki/SQL)
+- [wikipedia.org⁵](https://uk.wikipedia.org/wiki/SQL-%D1%96%D0%BD%27%D1%94%D0%BA%D1%86%D1%96%D1%8F)
+- [wikipedia.org⁶](https://uk.wikipedia.org/wiki/D3.js)
+- [wikipedia.org⁷](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81)
+- [wikipedia.org⁸](https://uk.wikipedia.org/wiki/XML)
+- [wikipedia.org⁹](https://uk.wikipedia.org/wiki/JSON)
+- [tensorflow.org](https://www.tensorflow.org/tfx/tutorials/model_analysis/tfma_basic)
+- [luxsci.com](https://luxsci.com/blog/database-server-dedicated.html)
+- [cayosoft.com](https://www.cayosoft.com/pros-cons-hyrbid-exchange-environment/)
+- [softwaretestinghelp.com](https://www.softwaretestinghelp.com/hybrid-database/)
+- [techrepublic.com](https://www.techrepublic.com/article/hybrid-cloud/)
+- [dataversity.net](https://www.dataversity.net/nosql-databases-advantages-and-disadvantages/)
+- [webandcrafts.com](https://webandcrafts.com/blog/advantages-disadvantages-rdbms)
+- [promax.com](https://www.promax.com/blog/10-advantages-and-disadvantages-of-cloud-storage)
+- [online.hbs.edu](https://online.hbs.edu/blog/post/data-collection-methods)
+- [deloitte.com](https://www2.deloitte.com/us/en/insights/topics/analytics/data-management-techniques-approaches-tools.html)
+- [studytonight.com](https://www.studytonight.com/dbms/database-model.php)
+- [dataverse.org](https://dataverse.org/)
+- [gapminder.org](https://www.gapminder.org/)
+- [databank.worldbank](https://databank.worldbank.org/)
+- [ec.europa.eu](https://ec.europa.eu/eurostat/web/main/data/database)
