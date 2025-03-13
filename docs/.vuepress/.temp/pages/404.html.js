@@ -1,4 +1,4 @@
-import comp from "C:/IO-33_DB_gr2/docs/.vuepress/.temp/pages/404.html.vue"
+import comp from "C:/Users/user/IO-33_DB_gr2/docs/.vuepress/.temp/pages/404.html.vue"
 const data = JSON.parse("{\"path\":\"/404.html\",\"title\":\"\",\"lang\":\"en-US\",\"frontmatter\":{\"layout\":\"NotFound\",\"description\":\"404 Not Found \",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/IO-33_DB_gr2/404.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Назва проєкту\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"404 Not Found \"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebPage\\\",\\\"name\\\":\\\"\\\",\\\"description\\\":\\\"404 Not Found \\\"}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.01,\"words\":3},\"filePathRelative\":null,\"autoDesc\":true}")
 export { comp, data }
 
