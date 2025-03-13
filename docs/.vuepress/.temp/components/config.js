@@ -1,11 +1,11 @@
 import { defineClientConfig } from "vuepress/client";
-import { hasGlobalComponent } from "C:/usage_100/KPI/IV_term/DB/IO-33_DB_gr2/node_modules/vuepress-shared/lib/client/index.js";
+import { hasGlobalComponent } from "C:/d/IO-33_DB_gr2/node_modules/vuepress-shared/lib/client/index.js";
 
-import { useScriptTag } from "C:/usage_100/KPI/IV_term/DB/IO-33_DB_gr2/node_modules/@vueuse/core/index.mjs";
-import Badge from "C:/usage_100/KPI/IV_term/DB/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
-import FontIcon from "C:/usage_100/KPI/IV_term/DB/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
+import { useScriptTag } from "C:/d/IO-33_DB_gr2/node_modules/@vueuse/core/index.mjs";
+import Badge from "C:/d/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/Badge.js";
+import FontIcon from "C:/d/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/components/FontIcon.js";
 
-import "C:/usage_100/KPI/IV_term/DB/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
+import "C:/d/IO-33_DB_gr2/node_modules/vuepress-plugin-components/lib/client/styles/sr-only.scss";
 
 export default defineClientConfig({
   enhance: ({ app }) => {
