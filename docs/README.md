@@ -1,9 +1,9 @@
 ---
 home: true
-icon: home
+actionText: Розпочати
 title: Початок
 
-heroText: "Назва проєкту"
+heroText: "Системи управлінння відкритими даними"
 
 tagline: Лабораторні роботи з дисципліни "Організація баз данних"
 
@@ -13,7 +13,7 @@ actions:
     link: ./intro/
     type: primary
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your name] |"
+footer: "ECL 2.0 Licensed | Copyright © [2025] [Vladyslav] |"
 
 ---
 
