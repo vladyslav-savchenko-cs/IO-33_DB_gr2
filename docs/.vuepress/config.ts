@@ -7,8 +7,7 @@ export default defineUserConfig({
   base: "/IO-33_DB_gr2/",
 
   lang: "en-US",
-  // Замінити на назву свого проєкту
-  title: "Назва проєкту",
+  title: "PostIt!",
   description: "Лабораторні роботи",
 
   theme,
